@@ -1,0 +1,12 @@
+# CODEOWNERS - defines who must review changes to specific paths
+#
+# Format: <pattern> <owner> [<owner>...]
+# Owners can be @username, @org/team-name, or email
+#
+# Examples:
+# *.js        @frontend-team
+# /docs/      @tech-writers
+# /api/       @backend-team @lead-dev
+
+# For this repo, you own everything:
+* @rgdupree2
