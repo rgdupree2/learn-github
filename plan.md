@@ -11,19 +11,19 @@
 These are the things GitHub does differently or better than Bitbucket.
 
 ### 1.1 Pull Requests & Code Review
-- [ ] PR templates (`PULL_REQUEST_TEMPLATE.md`)
-- [ ] Review process: requesting reviewers, required reviews, CODEOWNERS file
-- [ ] Inline suggestions (suggest changes in review comments)
-- [ ] Draft PRs
-- [ ] Auto-merge and merge queue
-- [ ] Branch protection rules and rulesets (newer replacement for branch protection)
+- [x] PR templates (`PULL_REQUEST_TEMPLATE.md`)
+- [x] Review process: requesting reviewers, required reviews, CODEOWNERS file
+- [x] Inline suggestions (suggest changes in review comments)
+- [x] Draft PRs
+- [x] Auto-merge and merge queue
+- [x] Branch protection rules and rulesets (newer replacement for branch protection)
 
 ### 1.2 Issues & Project Management
-- [ ] GitHub Issues: labels, milestones, assignees
-- [ ] Issue templates and issue forms (YAML-based)
-- [ ] GitHub Projects (the newer board/table/roadmap views — not "classic" projects)
-- [ ] Linking issues to PRs with keywords (`fixes #123`)
-- [ ] Discussions (forum-style threads for a repo)
+- [x] GitHub Issues: labels, milestones, assignees
+- [x] Issue templates and issue forms (YAML-based)
+- [x] GitHub Projects (the newer board/table/roadmap views — not "classic" projects)
+- [x] Linking issues to PRs with keywords (`fixes #123`)
+- [x] Discussions (forum-style threads for a repo)
 
 ### 1.3 Repository Features
 - [ ] GitHub Releases and tags (attaching binaries, changelogs)
